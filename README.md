@@ -1,2 +1,2 @@
-# Enter-the-Elements-Kinect
+# Enter the Elements
 A interactive haptics experience using the Xbox Kinect
